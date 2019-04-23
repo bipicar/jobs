@@ -19,7 +19,7 @@ Si has trabajado en una Startup anteriormente no habrá mucho que explicarte per
 - Heroku
 - Testing (Mocha, Jest..)
 - Android: Java, Kotlin
-- iOS: Swift3
+- iOS: Swift
 - Git
 
 # ¿Qué desarrollamos?
