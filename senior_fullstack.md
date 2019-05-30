@@ -55,7 +55,7 @@ Tenemos varios productos internos y externos, casi todos ellos basados en nuestr
 
 # ¿Qué ofrecemos?
 - Trabajar en una Startup tecnológica con 4 años de vida, con gente joven a la que le gusta su trabajo.
-- Un salario competitivo, entre 30 y 40k por poner un rango, en función de tu experiencia.
+- Un salario competitivo, entre 30 y 50k por poner un rango, en función de tu experiencia.
 - Oficinas en el centro de Madrid junto a Colón.
 - Café.
 - 2 Perros, Milo y Unagui, un bulldog francés y un labrador que trabajan con nosotros a diario.
