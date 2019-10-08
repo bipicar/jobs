@@ -1,6 +1,6 @@
 # ¿Quienes somos?
 
-Somos Bipi (Bipicar.com), un servicio de suscripción a coches. Ofrecemos una alternativa a tener un coche en propiedad, permitiéndote disfrutar siempre de coches nuevos pagando una única cuota mensual y permitiéndote cambiar de coche según tus necesidades. Somos una Startup y a lo largo de los 4 años que llevamos hemos creado dos empresas: llollo.com y bipicar.com, y en esta última hemos pasado de ser una empresa de alquiler de coches a domicilio a lo que somos actualmente: un servicio de suscripción. Actualmente somos unas 50 personas en oficina.
+Somos Bipi (Bipicar.com), un servicio de suscripción a coches. Ofrecemos una alternativa a tener un coche en propiedad, permitiéndote disfrutar siempre de coches nuevos pagando una única cuota mensual y permitiéndote cambiar de coche según tus necesidades. Somos una Startup y a lo largo de los ~4 años que llevamos hemos creado dos empresas: llollo.com y bipicar.com, y en esta última hemos pasado de ser una empresa de alquiler de coches a domicilio a lo que somos actualmente: un servicio de suscripción. Actualmente somos unas 60 personas en oficina.
 
 # ¿Qué buscamos?
 Buscamos un nuevo compañero o compañera con experiencia para unirse a nuestro equipo de Fullstack's de actualmente 7 personas. Necesitamos alguien resolutivo, que le guste trabajar en equipo y desarrollar 'lo que haga falta' ya sea frontend o backend.
@@ -12,6 +12,7 @@ Si has trabajado en una Startup anteriormente no habrá mucho que explicarte per
 - Javascript (es nuestro lenguaje de desarrollo principal)
 - VueJS
 - AngularJS
+- NuxtJS
 - NodeJS
 - Express
 - MongoDB
@@ -28,7 +29,7 @@ Tenemos varios productos internos y externos, casi todos ellos basados en nuestr
 
 - Aplicación móvil nativa iOS
 - Aplicación móvil nativa Android
-- Nuestro "Centro de control", es nuestra aplicación interna para controlar toda la empresa: logística, flota, usuarios, facturación, incidencias, marketing, soporte......, esto ocupa el 90% de nuestro desarrollo ;)
+- Nuestro "Centro de control", es nuestra aplicación interna para controlar toda la empresa: logística, flota, usuarios, facturación, incidencias, marketing, soporte......, esto ocupa el 80% de nuestro desarrollo ;)
 - Portal (y tienda) web bipicar.com, re-diseñado hace apenas un mes en NuxtJS (VueJS)
 - Proyectos puntuales, los cuales van naciendo y muriendo a medida que lo requiere el negocio.
 
@@ -39,7 +40,7 @@ Tenemos varios productos internos y externos, casi todos ellos basados en nuestr
 - Hacemos tests de casi todo, tenemos una cobertura de test muy amplia con más de mil tests end to end.
 - Hacemos sprints de 15 días, aunque las prioridades van cambiando continuamente. Decir que hacemos Scrum sería engañarnos :D
 - Cada 15 días, al finalizar el sprint hacemos una retrospectiva donde nos sentamos todo el equipo a comentar que tal ha ido y proponer lo que cada uno quiera.
-- Tenemos sistemas de integración continua, con TravisCI (también experimentamos con Github Actions y demás..)
+- Tenemos sistemas de integración continua, con TravisCI y Github Actions.
 - Tenemos entornos de preproducción, donde subimos y probamos libremente todo antes de pasar a producción.
 - Utilizamos JIRA para la gestión de tareas
 - Hacemos subidas a producción diariamente (entre una e infinitas veces)
@@ -55,13 +56,14 @@ Tenemos varios productos internos y externos, casi todos ellos basados en nuestr
 
 # ¿Qué ofrecemos?
 - Trabajar en una Startup tecnológica con 4 años de vida, con gente joven a la que le gusta su trabajo.
-- Un salario competitivo, entre 30 y 50k por poner un rango, en función de tu experiencia.
-- Oficinas en el centro de Madrid junto a Colón.
-- Café.
+- Un salario en función de tu experiencia de entre ~27 y ~42k.
+- Oficinas en el centro de Madrid, al lado del ayuntamiento, el retiro y el hotel Ritz.
+- Café y fruta.
 - 2 Perros, Milo y Unagui, un bulldog francés y un labrador que trabajan con nosotros a diario.
 - Precios especiales en los servicios que vendemos: coches.
 - Trabajar en productos que tienen un impacto real y directo con el negocio: cada cosa que hagas tendrá una repercusión inmediata.
-- Horario intensivo de 9 a 15h los Viernes.
+- Horario intensivo los Viernes.
 - Jornada intensiva en verano
+- Teletrabajo ocasional
 
 
