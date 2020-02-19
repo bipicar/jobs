@@ -65,6 +65,6 @@ Tenemos varios productos internos y externos, casi todos ellos basados en nuestr
 - Horario intensivo los Viernes.
 - Jornada intensiva en verano
 - 23 Días de vacaciones + 2 días de asuntos propios.
-- Teletrabajo ocasional
+- Teletrabajo ocasional (estamos trabajando en su implementación)
 
 
