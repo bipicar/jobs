@@ -1,6 +1,6 @@
 # ¿Quienes somos?
 
-Somos Bipi (Bipicar.com), un servicio de suscripción a coches. Ofrecemos una alternativa a tener un coche en propiedad, permitiéndote disfrutar siempre de coches nuevos pagando una única cuota mensual y ofreciéndote la posibilidad de cambiar de coche según tus necesidades. Somos una Startup con un equipo que a lo largo de los ~5 años que llevamos trabajando hemos creado dos empresas. En Bipicar hemos pasado de ser una empresa de alquiler de coches a domicilio a lo que somos actualmente: un servicio de suscripción a coches. Actualmente somos unas 70 personas en oficina.
+Somos Bipi (Bipicar.com), un servicio de suscripción a coches. Ofrecemos una alternativa a tener un coche en propiedad, permitiéndote disfrutar siempre de coches nuevos pagando una única cuota mensual y ofreciéndote la posibilidad de cambiar de coche según tus necesidades. Somos una Startup con un equipo que a lo largo de los ~5 años que llevamos trabajando hemos creado dos empresas. En Bipicar hemos pasado de ser una empresa de alquiler de coches a domicilio a lo que somos actualmente: un servicio de suscripción a coches. Actualmente somos unas 70 personas en oficina y estamos iniciando nuestra expansión a Francia.
 
 # ¿Qué buscamos?
 Buscamos un nuevo compañero o compañera con experiencia para unirse a nuestro equipo de Fullstack's de actualmente 9 personas. Necesitamos alguien resolutivo, que le guste trabajar en equipo y desarrollar 'lo que haga falta' ya sea frontend o backend.
